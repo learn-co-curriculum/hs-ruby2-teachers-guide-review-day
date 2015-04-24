@@ -34,7 +34,7 @@ You guys have learned A TON in the past 5 classes - MVC, forms, databases, user 
     * This table will have two columns - user_id and item_id. Tables like this are called join tables because they connect (or join) objects from other models/tables.
     * You'll also need to set up new ActiveRecord relationships for each model. The Purchase model `belongs_to` users and items. The User and Item models both `has_many` purchases. This may seem a little strange but just roll with it.
 
-[Lab](https://github.com/flatiron-school-curriculum/hs-flatiron-swag-store-for-real)
+[Lab](https://github.com/learn-co-curriculum/hs-flatiron-swag-store-for-real)
 
 
 ### Conclusion / So What?
