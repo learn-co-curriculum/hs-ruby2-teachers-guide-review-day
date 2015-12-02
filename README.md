@@ -39,3 +39,5 @@ You know so much! And being able to build this project on your own from the grou
 + Encourage students to go back and look at how they built Fwitter - pattern matching is key!
 + Be there for support but encourage students to help each other, Google, etc. before they ask you for help.
 
+
+<a href='https://learn.co/lessons/hs-ruby2-teachers-guide-review-day' data-visibility='hidden'>View this lesson on Learn.co</a>
