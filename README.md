@@ -40,4 +40,4 @@ You know so much! And being able to build this project on your own from the grou
 + Be there for support but encourage students to help each other, Google, etc. before they ask you for help.
 
 
-<a href='https://learn.co/lessons/hs-ruby2-teachers-guide-review-day' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby2-teachers-guide-review-day' title='Motivation / Why Should You Care?'>Motivation / Why Should You Care?</a> on Learn.co and start learning to code for free.</p>
